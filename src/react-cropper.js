@@ -239,9 +239,6 @@ class ReactCropper extends Component {
 
     return (
       <div
-        src={null}
-        crossOrigin={null}
-        alt={null}
         style={this.props.style}
         className={this.props.className}
       >
